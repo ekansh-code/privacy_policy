@@ -112,6 +112,7 @@ This privacy policy is effective as of 2026-06-08
 
 Where processing is based on consent, you provide that consent by affirmatively opting in to the relevant feature or action. You may withdraw consent at any time without affecting processing carried out before withdrawal. Processing based on other lawful bases is carried out as described above.
 
+User can request / mail to delet their account.
 **Contact Us**
 
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at romanxview.info@gmail.com.
